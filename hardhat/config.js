@@ -1,0 +1,2 @@
+const whitelist_const_address_kovan = '0x45821a1b1454eD2b804CcD4e24335E46e3408f02';
+const whitelist_const_address_goerli = "0x3eE35401D04fccB57cbf1244C7d770d7aEAd05B1";
